@@ -1,1 +1,1 @@
-# My Personal Extension Repo
+ADD: https://rustedimac.github.io/repo-public/index.min.json
