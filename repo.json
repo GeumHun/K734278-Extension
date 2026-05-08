@@ -1,5 +1,7 @@
 {
-  "name": "The Repo",
-  "baseUrl": "https://raw.githubusercontent.com/rustedimac/repo-public/main",
-  "appMinVer": "0.16.0"
+  "meta": {
+    "name": "NTK Repo",
+    "website": "https://rustedimac.github.io/repo-public",
+    "signingKeyFingerprint": "416a4632b26e5114fe4a59564e28dba86d62feb6f8095361be4d391f42290177"
+  }
 }
